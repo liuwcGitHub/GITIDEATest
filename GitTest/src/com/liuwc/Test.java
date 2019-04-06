@@ -24,6 +24,5 @@ public class Test {
       System.out.println("git");
       System.out.println("主干第三次提交");
       System.out.println("主干修改bug后合并到分支上");
-      System.out.println("分支上的新功能");
     }
 }
