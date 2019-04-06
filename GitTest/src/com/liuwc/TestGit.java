@@ -1,8 +1,8 @@
 /**
  * Copyright (C), 2018-2019, 公司
- * FileName: Test
+ * FileName: TestGit
  * Author:   刘伟成
- * Date:     2019/4/6 21:18
+ * Date:     2019/4/6 21:29
  * Description:
  * History:
  * <author>          <time>          <version>          <desc>
@@ -18,10 +18,8 @@ package com.liuwc;
  * @create 2019/4/6
  * @since 1.0.0
  */
-public class Test {
+public class TestGit {
 
-    public static void main(String[] args){
-      System.out.println("git");
-      System.out.println("第二次提交");
-    }
+    System.out.println("第二次提交TestGit");
+
 }
